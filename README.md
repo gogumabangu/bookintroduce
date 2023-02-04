@@ -1,0 +1,1 @@
+# gogumabangu.github.io
