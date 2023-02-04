@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(243, 238, 220);
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.cover_s {
+    width: 198px;
+    height: 284;
+}
+
+.link_normal { border: 2px solid coral;
+    background-color: orange;
+    color: white;
+    width: 100px;
+    padding: 5px;
+}
+
+hr {margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.link_special { border: 2px solid blue;
+    background-color: deepskyblue;
+    color: white;
+    width: 100px;
+    padding: 5px;
+}
+
+h3 { 
+    font-family: 'Noto Sans KR';
+}
+
+h4 { 
+    font-family: 'Noto Sans KR';
+}
+
+h5 { 
+    font-family: 'Noto Sans KR';
+}
+
+p{
+    background-color: beige;
+    padding: 10px;
+    font-family: 'Noto Serif KR', serif;
+    font-weight: normal;
+}
+
+.introduce {
+    background-color: rgb(235, 159, 104);
+    font-family: 'Noto Sans KR', sans-serif;
+    color: floralwhite;
+    text-align: center;
+}
+
+.book_int_1 {
+    background-color: rgb(241, 230, 177);
+    padding: 10px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.book_int_2 {
+    background-color: rgb(241, 230, 177);
+    padding: 10px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+ul {
+    background-color: beige;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    font-family: 'Noto Serif KR', serif;
+    font-weight: normal;
+}
